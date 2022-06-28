@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F0BDBD&height=170&section=header&text=Hello%20World✨&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=45)
 
 <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suddiyo&count_private=true&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnsugyeong&count_private=true&show_icons=true&theme=swift)
 
 <h3> 👋 Hi there 👋 </h3>
 <p>  
