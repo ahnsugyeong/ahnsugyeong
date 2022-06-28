@@ -1,13 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=b0e0e6&height=150&section=header&text=Ahn%20Su-gyeong%20🐧&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=b0e0e6&height=150&section=header&text=Ahn%20Su-gyeong%20🌱&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=30&&animation=twinkling)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnsugyeong&count_private=true&show_icons=true&theme=graywhite)
-
-<h3> 👋 Hi there 👋 </h3>
-<p>  
-I'm Ahn Su-gyeong, a growing developer. 🌱 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnsugyeong&count_private=true&show_icons=true&theme=graywhite&hide_title=true&layout=compact) 
 </p>
 <h3>💻 Tech Stack 💻</h3>
 <p>
@@ -26,7 +22,6 @@ I'm Ahn Su-gyeong, a growing developer. 🌱
 <h3>•••</h3>
 <p>
   <a href="https://ahnsugyeong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://ahnsugyeong.tistory.com"/></a>&nbsp
-  <a href="https://www.instagram.com/ahnsugyeong/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ahnsugyeong/"/></a>&nbsp;&nbsp;
   <a href="mailto:ahnsugyeong@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahnsugyeong@gmail.com"/></a>
 </p>
 
