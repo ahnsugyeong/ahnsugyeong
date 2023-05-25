@@ -1,13 +1,13 @@
 
 <div>
-<h1>Hello Suddi's World 🐰</h1>
+<h1>Hello suddiyo's World 🖤</h1>
 
 👋 Hi there!
 <br> I'm a growing developer. 🌱
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suddiyo&count_private=true&show_icons=true&theme=graywhite&hide_title=true&layout=compact) 
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=suddiyo&count_private=true&show_icons=true&theme=graywhite&hide_title=true&layout=compact) 
 </p>
 <h3>Tech Stack</h3>
 <p>
