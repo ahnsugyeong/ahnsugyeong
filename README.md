@@ -1,14 +1,14 @@
 
 <div>
-<h1>Hello suddiyo's World 🖤</h1>
+<h1>🖤 Hello Su-gyeong's World 🖤</h1>
 
 👋 Hi there!
 <br> I'm a growing server developer. 🌱
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuddiyo&count_bg=%23C6DBDA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnsugyeong&count_bg=%23FFAEA5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=suddiyo&count_private=true&show_icons=true&theme=graywhite&hide_title=true&layout=compact) 
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahnsugyeong&count_private=true&show_icons=true&theme=graywhite&hide_title=true&layout=compact) 
 
 
 
